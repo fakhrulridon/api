@@ -4,7 +4,7 @@
         "name": "T SPORTS",
         "category": "Featured",
         "logo": "http://182.48.69.68/images/TSports.jpg",
-        "stream_url": "https://sm-monirul.top/RZ/live/edge1/1/index.m3u8"
+        "stream_url": "http://182.48.69.68:8090/hls/tsportshd3rd.m3u8"
     },
     {
         "id": 184,
