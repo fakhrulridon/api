@@ -4,7 +4,11 @@
         "name": "T SPORTS",
         "category": "Featured",
         "logo": "http://182.48.69.68/images/TSports.jpg",
-        "stream_url": "http://182.48.69.68:8090/hls/tsportshd3rd.m3u8"
+        "streams": [
+"http://182.48.69.68:8090/hls/tsportshd3rd.m3u8",
+"https://server2.m3u8",
+"https://server3.m3u8"
+]
     },
     {
         "id": 184,
