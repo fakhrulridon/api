@@ -5,10 +5,8 @@
     "category": "Featured",
     "logo": "http://172.19.17.28/images/TSports.jpg",
     "streams": [
-      "http://172.19.17.139:8090/hls/tntsports1hd.m3u8",
-      "http://172.19.17.202:8090/hls/tntsports1hd.m3u8",
-      "http://172.19.17.4:8090/hls/tntsports1hd.m3u8",
-      "http://172.19.17.230:8090/hls/tntsports1hd.m3u8"
+      "http://172.102.0.81:84/feed1001/video.m3u8"
+    
     ]
   },
   {
@@ -41,10 +39,8 @@
     "category": "Featured",
     "logo": "http://172.19.17.28/images/somoytv.jpg",
     "streams": [
-      "http://172.19.17.139:8090/hls/somoytv.m3u8",
-      "http://172.19.17.202:8090/hls/somoytv.m3u8",
-      "http://172.19.17.4:8090/hls/somoytv.m3u8",
-      "http://172.19.17.230:8090/hls/somoytv.m3u8"
+     "http://103.155.174.9:9081/live/ch_15b18848/stream.m3u8"
+  
     ]
   },
   {
